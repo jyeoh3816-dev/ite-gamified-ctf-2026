@@ -234,10 +234,6 @@ when permitted by the organisers.
 - Sanitize examples and disclose only work I personally performed or appropriately attributed.
 - Do not imply endorsement or affiliation with prospective employers.
 
-## Professional reflection
-
-I am developing towards a career in cybersecurity, with particular interest in ethical penetration testing. My aim is to demonstrate curiosity, structured investigation and the ability to communicate technical reasoning with accuracy and integrity. This repository will grow as I complete the bootcamp sessions and participate in the competition.
-
 ## References
 
 - ITE College West public announcement, **13 October 2026**, promoting ITE Gamified CTF 2026: https://www.schoolandcollegelistings.com/SG/Singapore/150853021690127/ITE-College-West
