@@ -21,7 +21,7 @@ The goal is to demonstrate **how I approach problems**, not simply whether I obt
 | Bootcamp 2 and CTF | Friday, 6 November 2026, 2:00–6:00 PM SGT |
 | Prize presentation | Friday, 13 November 2026, 1:00 PM SGT |
 | Venue | ITE College East, Room T04-31 |
-| Participant | Jerry Yeoh |
+| Participant | Jerry Yeoh Chun Yong |
 | Institution | ITE College West |
 | Programme | 3-Year Higher Nitec in Cyber & Network Security (Year 2) |
 | Portfolio branding | Zero Day Legend (personal branding; not a claim about official team registration) |
