@@ -95,16 +95,77 @@ Actual challenge categories, titles and quantities will be added **only once con
 
 Specific tools, techniques, challenge categories and hands-on competencies will be listed only after I actually use them during training or competition.
 
-## Results and reflections
+## Competition Results & Achievements
 
-| Metric | Current status |
-| --- | --- |
-| Bootcamp attendance | To be updated |
-| Challenges attempted | To be updated after competition |
-| Challenges solved | To be updated after competition |
-| Score / ranking | To be recorded if officially available |
-| Tools used | To be verified from my own notes |
-| Key lessons | To be added after each session |
+This section documents my verified participation,
+competition outcomes, and technical development
+throughout ITE Gamified CTF 2026.
+
+### Competition Overview
+
+| Detail | Information |
+|---|---|
+| Competition | ITE Gamified CTF 2026 |
+| Competition Date | 6 November 2026 |
+| Institution | ITE College West |
+| Participant | Jerry Yeoh |
+| Portfolio Branding | Zero Day Legend |
+| Participation Status | Preparing for competition |
+
+### Competition Performance
+
+| Performance Indicator | Result |
+|---|---|
+| Challenges Attempted | Pending |
+| Challenges Solved | Pending |
+| Total Points Earned | Pending |
+| Final Ranking | Pending official results |
+| Challenge Categories | To be confirmed |
+| Tools and Technologies Used | To be documented |
+
+### Technical Competencies Demonstrated
+
+The following competencies will be evaluated
+based on my actual training and CTF experience:
+
+- Cybersecurity fundamentals
+- Technical investigation and analysis
+- Logical problem-solving
+- Troubleshooting and validation
+- Time management and prioritisation
+- Professional technical documentation
+
+### Key Learning Outcomes
+
+To be completed after the competition.
+
+1. **Technical Knowledge:** Pending
+2. **Practical Skills:** Pending
+3. **Professional Development:** Pending
+
+### Personal Reflection
+
+Following the competition, I will reflect on
+my technical performance, problem-solving
+approach, challenges encountered, and areas
+for continued improvement.
+
+My objective is to demonstrate measurable
+learning and professional development,
+rather than focusing solely on competition
+rankings or the number of flags captured.
+
+### Verification and Responsible Reporting
+
+All results will be based on verified
+competition records or my documented work.
+
+No rankings, achievements, certifications,
+or successful challenge completions are
+claimed before official confirmation.
+
+Challenge solutions will only be published
+when permitted by the organisers.
 
 ## Ethical scope and publication
 
