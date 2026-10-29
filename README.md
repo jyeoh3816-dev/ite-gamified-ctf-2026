@@ -83,17 +83,75 @@ Actual challenge categories, titles and quantities will be added **only once con
 | --- | --- | --- | --- |
 | To be confirmed | To be confirmed | Not started | [Reusable report template](challenges/CHALLENGE_TEMPLATE.md) |
 
-## Technical competencies in development
+## Cybersecurity Skills & Professional Development
 
-**Networking and system fundamentals:** TCP/IP, services, operating-system concepts and command-line workflows.
+### Technical Foundations
 
-**Security analysis:** observation, enumeration, interpretation of evidence and careful validation.
+As a Year 2 student pursuing the 3-Year Higher Nitec
+in Cyber & Network Security at ITE College West,
+I am developing practical cybersecurity competencies
+through academic coursework, authorised laboratories,
+CTF training, and independent learning.
 
-**Problem-solving:** hypothesis testing, debugging, time management and prioritisation.
+| Technical Area | Knowledge & Learning Focus |
+|---|---|
+| Network Security | TCP/IP, network protocols, ports, services and network enumeration |
+| Operating Systems | Windows and Linux fundamentals, command-line operations and system administration |
+| Security Assessment | Reconnaissance, enumeration and vulnerability assessment concepts |
+| Digital Forensics | Evidence analysis, technical observations and investigation fundamentals |
+| Incident Response | Security event analysis, investigative reasoning and defensive recommendations |
+| Ethical Penetration Testing | Authorised security testing, structured methodologies and responsible reporting |
+| Technical Documentation | GitHub, Markdown, structured writeups and professional reporting |
 
-**Communication:** Markdown documentation, concise findings and lessons learned.
+### Tools & Technologies
 
-Specific tools, techniques, challenge categories and hands-on competencies will be listed only after I actually use them during training or competition.
+The following tools and platforms form part of
+my ongoing cybersecurity learning:
+
+- **Nmap:** Network discovery and service enumeration.
+- **Linux CLI:** System navigation and command-line fundamentals.
+- **Hack The Box:** Authorised cybersecurity laboratories and CTF practice.
+- **GitHub:** Technical documentation and portfolio development.
+- **Markdown:** Structured technical writeups and learning reports.
+
+Specific tools used during ITE Gamified CTF 2026
+will be recorded separately after participation.
+
+### Career Development
+
+My long-term professional aspiration is to
+develop a career in penetration testing and
+ethical security assessment.
+
+Through CTF competitions and structured training,
+I aim to strengthen my technical foundations,
+analytical problem-solving abilities,
+and understanding of cybersecurity methodologies.
+
+I am particularly interested in developing
+competencies relevant to:
+
+- Penetration Testing
+- Vulnerability Assessment
+- Security Operations
+- Incident Response
+- Threat Investigation
+- Cybersecurity Research
+
+### Continuous Learning
+
+My approach to professional development focuses on:
+
+1. Building strong technical fundamentals.
+2. Practising consistently in authorised environments.
+3. Understanding the reasoning behind technical findings.
+4. Producing accurate and reproducible documentation.
+5. Reflecting on mistakes and identifying improvements.
+6. Applying cybersecurity knowledge responsibly.
+
+This repository represents an ongoing learning
+journey and will be updated with verified
+technical experience and competition outcomes.
 
 ## Competition Results & Achievements
 
