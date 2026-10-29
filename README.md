@@ -38,13 +38,30 @@ The goal is to demonstrate **how I approach problems**, not simply whether I obt
 - Communicate my methodology, difficulties and lessons learned in clear reports suitable for technical and non-technical audiences.
 - Follow competition rules, authorised scope and responsible disclosure standards.
 
-## Preparation and training
+## Preparation and Training
 
-| Session | Date and time (SGT) | Status | Notes |
-| --- | --- | --- | --- |
-| Bootcamp 1 | 30 Oct 2026, 2:00–6:00 PM | Upcoming | [Training notes](training/bootcamp-01.md) |
-| Bootcamp 2 | 6 Nov 2026, 2:00–6:00 PM | Upcoming | [Training notes](training/bootcamp-02.md) |
-| CTF challenge | 6 Nov 2026, 2:00–6:00 PM | Upcoming | Challenge writeups added when publication is permitted |
+This section documents my preparation, technical development,
+and learning progress throughout ITE Gamified CTF 2026.
+
+| Session | Date & Time (SGT) | Documentation | Status |
+|---|---|---|---|
+| Bootcamp 1 | 30 Oct 2026, 2–6 PM | [Training Notes](training/bootcamp-01.md) | Upcoming |
+| Bootcamp 2 | 6 Nov 2026, 2–6 PM | [Training Notes](training/bootcamp-02.md) | Upcoming |
+| Technical Learning Log | Throughout training | [Learning Log](training/TECHNICAL_LEARNING_LOG.md) | Preparing |
+| CTF Competition | 6 Nov 2026, 2–6 PM | [Challenge Reports](challenges/CHALLENGE_TEMPLATE.md) | Upcoming |
+
+### Documentation Approach
+
+My training documentation focuses on:
+
+- Technical concepts and tools actually covered during training.
+- Practical exercises conducted in authorised environments.
+- Challenges encountered and troubleshooting methodologies.
+- Evidence-based problem-solving and analytical reasoning.
+- Lessons learned and areas for further improvement.
+
+All technical findings and competition results will be updated
+following participation, subject to organiser publication rules.
 
 The official announcement schedules Bootcamp 2 and the CTF within the same time block; the detailed run-of-show has not been confirmed here.
 
