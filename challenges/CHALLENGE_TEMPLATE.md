@@ -1,41 +1,132 @@
-# Challenge: [Official challenge name]
+# ITE Gamified CTF 2026 — Challenge Writeup
 
-> **Publication status:** Private until the competition ends and organisers permit writeups. Do not publish live flags or protected challenge data.
+## Challenge Information
 
-| Field | Detail |
-| --- | --- |
-| Category | [As shown in competition] |
-| Difficulty / points | [If available] |
-| Date attempted | [SGT timestamp] |
-| Outcome | [Solved / partial / unsolved] |
-| Tools actually used | [Verified list] |
+| Field | Details |
+|---|---|
+| Challenge Name | To be confirmed |
+| Category | To be confirmed |
+| Difficulty | To be confirmed |
+| Points | To be confirmed |
+| Date Attempted | To be updated |
+| Status | Not started |
+| Participant | Jerry Yeoh |
+| Institution | ITE College West |
 
-## Objective
-[Paraphrase the task without publishing restricted materials.]
+## 1. Executive Summary
 
-## Initial observations
-- **Observation:** [Directly observed fact]
-- **Evidence:** [Sanitised artefact or permitted reference]
-- **Uncertainty:** [What remains unverified]
+Provide a concise overview of the challenge,
+its objective, the approach taken, and the
+verified outcome.
 
-## Investigation steps
-1. **Hypothesis:** [What I believed and why]
-2. **Test:** [Authorised action or tool, if permitted to disclose]
-3. **Result:** [Observed response]
-4. **Validation:** [How I confirmed or disproved the hypothesis]
+To be completed after participation.
 
-## Technical findings
-[Precise, reproducible explanation based on what was actually completed. Redact secrets.]
+## 2. Challenge Objective
 
-## Defensive relevance
-[Security implication or lesson, only if supported by the challenge.]
+Describe the challenge requirements, available
+artefacts, and intended learning outcomes.
 
-## Challenges and lessons learned
-[What was difficult? What would I do differently?]
+Do not include restricted challenge materials.
 
-## Disclosure review
-- [ ] Event ended
-- [ ] Organiser permits publication
-- [ ] No flags or secrets exposed
-- [ ] Screenshots and data reviewed
-- [ ] Findings reflect my own work
+## 3. Technical Environment
+
+Document the authorised environment and
+technologies actually encountered.
+
+| Component | Description |
+|---|---|
+| Operating System | Pending |
+| Tools Used | Pending |
+| Relevant Services | Pending |
+| Evidence Sources | Pending |
+
+## 4. Investigation Methodology
+
+### 4.1 Initial Assessment
+
+Describe how the challenge was interpreted,
+including its scope and available evidence.
+
+### 4.2 Information Gathering
+
+Document relevant observations and the
+reasoning behind the investigative approach.
+
+### 4.3 Hypothesis Development
+
+Explain possible interpretations of the
+evidence and how they were evaluated.
+
+### 4.4 Validation
+
+Describe how conclusions were verified
+using evidence from the authorised environment.
+
+## 5. Technical Findings
+
+| Observation | Supporting Evidence | Confidence |
+|---|---|---|
+| Pending | Pending | Pending |
+
+Explain findings objectively and distinguish
+confirmed facts from assumptions.
+
+## 6. Challenge Outcome
+
+**Status:** Pending
+
+**Result:** To be updated after competition.
+
+Only document verified outcomes and publish
+technical solutions when permitted.
+
+## 7. Security Implications
+
+Explain the cybersecurity principles
+demonstrated by the challenge.
+
+Where relevant, discuss potential defensive
+controls and security recommendations.
+
+## 8. MITRE ATT&CK Mapping
+
+If applicable, map observed techniques
+to the MITRE ATT&CK framework.
+
+| Technique | Technique ID | Evidence |
+|---|---|---|
+| To be assessed | Pending | Pending |
+
+Do not assign ATT&CK techniques without
+supporting evidence.
+
+## 9. Challenges and Troubleshooting
+
+Describe obstacles encountered, alternative
+approaches considered, and lessons learned.
+
+## 10. Personal Reflection
+
+Discuss:
+
+- What I learned from the challenge.
+- How I approached technical difficulties.
+- What I would improve.
+- How the experience supports my cybersecurity goals.
+
+## 11. References
+
+Add official documentation and relevant
+technical resources used during investigation.
+
+## Responsible Disclosure
+
+All documented activities were performed
+within authorised training or CTF environments.
+
+Competition flags, credentials, restricted
+challenge materials, and sensitive data
+will not be publicly disclosed.
+
+Technical solutions will be published only
+after organiser authorisation.
