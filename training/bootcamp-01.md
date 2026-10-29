@@ -37,3 +37,25 @@ During my first ITE Gamified CTF 2026 training session, I aim to:
 
 ## Publication check
 Do not include restricted slides, training materials, credentials or live challenge spoilers.
+
+## Bootcamp 1 — Training Checklist
+
+### Before Training
+- [ ] Review the competition rules and permitted tools.
+- [ ] Ensure required software and accounts are accessible.
+- [ ] Prepare a notebook for technical observations.
+- [ ] Review networking, Linux, and basic cybersecurity concepts.
+
+### During Training
+- [ ] Record the topics covered by the instructors.
+- [ ] Document tools and commands actually used.
+- [ ] Record key technical concepts and observations.
+- [ ] Note troubleshooting steps and lessons learned.
+- [ ] Identify subjects requiring further practice.
+
+### After Training
+- [ ] Update my Technical Learning Log.
+- [ ] Summarise three key learning outcomes.
+- [ ] Record areas for improvement before the competition.
+- [ ] Review all notes for restricted or confidential information.
+- [ ] Update the training status in README.md.
